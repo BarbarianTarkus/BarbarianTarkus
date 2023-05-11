@@ -2,13 +2,10 @@
 
 I have experience with the following programming languages:
 
-C++ 🚀
-
-Python 🐍
-
-Bash 🐚
-
-JavaScript 🌐
+* C++ 🚀
+* Python 🐍
+* Bash 🐚
+* JavaScript 🌐
 
 
 
