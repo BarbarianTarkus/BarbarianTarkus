@@ -1,6 +1,4 @@
-  👋 Hi, I’m @BarbarianTarkus <div style="text-align: center;">
-  <img src="https://thumbs.gfycat.com/MiserableCavernousCapybara-max-1mb.gif" width="50" height="50" />
-</div>
+  👋 Hi, I’m @BarbarianTarkus <div style="text-align: center;"> <img src="https://thumbs.gfycat.com/MiserableCavernousCapybara-max-1mb.gif"width="50" height="50" /></div>
 
 I have experience with the following programming languages:
 
