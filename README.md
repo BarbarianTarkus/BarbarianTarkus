@@ -1,4 +1,4 @@
-  👋 Hi, I’m @BarbarianTarkus <img styles:center; src="https://thumbs.gfycat.com/MiserableCavernousCapybara-max-1mb.gif" width="50" height="50" />
+  👋 Hi, I’m @BarbarianTarkus <img style:center; src="https://thumbs.gfycat.com/MiserableCavernousCapybara-max-1mb.gif" width="50" height="50" />
 
 I have experience with the following programming languages:
 
