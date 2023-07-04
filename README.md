@@ -1,4 +1,4 @@
-👋 Hi, I’m @BarbarianTarkus  <img src="https://img1.picmix.com/output/stamp/normal/1/6/2/4/2304261_9a959.png" width="16" height="16" />
+👋, I’m @BarbarianTarkus  <img src="https://img1.picmix.com/output/stamp/normal/1/6/2/4/2304261_9a959.png" width="16" height="16" />
 
 I have experience with the following programming languages:
   * C++ 🚀
