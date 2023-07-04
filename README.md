@@ -3,7 +3,7 @@
 ## Tech Skills:
 
 ### Programming
----
+
   * C++ 🚀
   * Python 🐍
   * JavaScript 🌐
@@ -16,7 +16,7 @@
     </div>
 
 ### SysAdmin
----
+
   * Linux Basics
     * Bash Scripting
   * Container
@@ -28,7 +28,7 @@
     * Nagios
 
 ### Currently Learning
----
+
   * Rust
   * Homelab administration
   * Practicing Offsec 
