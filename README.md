@@ -1,17 +1,8 @@
----
-title: Post One
-date: "2021-12-14"
-categories: 
-  - "numbers"
-  - "odd"
----
-
 # 👋 Hi, I’m @BarbarianTarkus  <img src="https://img1.picmix.com/output/stamp/normal/1/6/2/4/2304261_9a959.png" width="32" height="32" />
 
 ## Tech Skills:
 
-### Programming
-
+### ⌨️Programming
   * C++ 🚀
   * Python 🐍
   * JavaScript 🌐
@@ -23,21 +14,18 @@ categories:
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.1.0/icons/django.svg" width="32" height="32">
     </div>
 
-### SysAdmin
+### 🖥️SysAdmin
   * Linux Basics
     * Bash Scripting
   * Container
-    * Docker
-  * Firewall Management
+    * Docker🐋
+  * Firewall Management🧱
     * nftables
     * ufw
-  * Monitoring
+  * Monitoring💻
     * Nagios
 
-### CurrentlyLearning
-- [ ] Rust 
+### 📖Currently Doing/Learning
+- [ ] Rust
 - [ ] Homelab administration
-- [ ] Practicing Offsec 
-
-
-
+- [ ] Practicing Offsec
