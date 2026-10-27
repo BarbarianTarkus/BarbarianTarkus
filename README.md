@@ -1,9 +1,6 @@
 Hi My name is Ricardo
 ===============================================================================================================================
 
-Student
----------------------------------
-
 🌱 I’m currently growing my knowledge on Web Developing, SysAdmin and CyberSecurity Skills
 
 * 🌍  I'm based in Barcelona
