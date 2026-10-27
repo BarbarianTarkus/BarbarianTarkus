@@ -4,13 +4,11 @@ Hi My name is Ricardo
 Student
 ---------------------------------
 
-🌱 I’m currently growing my knowledge on Web Developing
-
-👨‍🔧Doing my internship on 3iPunt.
+🌱 I’m currently growing my knowledge on Web Developing, SysAdmin and CyberSecurity Skills
 
 * 🌍  I'm based in Barcelona
 * 🤝  I'm open to collaborating on Open Source projects
-* ✉️  You can contact me at [richvclaros@gmail.com](mailto:richvclaros@gmail.com)
+* ✉️  You can contact me at [ricardo@verduguez.com](mailto:ricardo@verduguez.com)
 
 Skills
 ---------------------------------
